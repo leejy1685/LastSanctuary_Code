@@ -1,4 +1,4 @@
-## ScripableObject를 활용한 데이터 관리
+## ScriptableObject를 활용한 데이터 관리
 
 구조|
 -|
